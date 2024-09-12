@@ -1,6 +1,6 @@
 # Welcome to [Sarmila's](https://github.com/Hirthick6/) profile! <a href="https://github.com/SarmilaShahid/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-### I'm a...   <img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height=15% width=40% align="right">
+### I'm a...   <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" height=15% width=40% align="right">
 
 * Future Software Engineer
  * Self-Taught Coder
