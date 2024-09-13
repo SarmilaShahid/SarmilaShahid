@@ -8,7 +8,7 @@
 
 🌱 I'm currently learning: Data Structures and Algorithms on [LeetCode](https://leetcode.com/SarmilaShahidofficial)<br>
 📬 How to reach me: [sarmilashahidoffical@gmail.com](mailto:sarmilashahidoffcial@gmail.com)<br>
-📝 [Resume](https://github.com/SarmilaShahid/RESUME/blob/main/SarmilaShahid%20official.pdf)<br>
+
 💪 This is where I write, code and solve problems.<br><br>
  As a Technology Student, I enjoy using my obsessive attention to detail, my unequivocal love for making 
  things that change the world.
